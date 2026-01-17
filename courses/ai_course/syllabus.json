@@ -1,0 +1,11 @@
+{
+  "course": "Complete Artificial Intelligence",
+  "modules": [
+    "Foundations",
+    "Machine Learning",
+    "Deep Learning",
+    "Multi-Agent AI",
+    "Synthetic Intelligence",
+    "Autonomous Systems"
+  ]
+}
